@@ -1,5 +1,5 @@
 - 👋 Hi, soy @Flor24-
-- 👀 Actualmente soy inganiera en Sistemas Computacionales y me gusta ser Front end, me apasiona diseñar. 
+- 👀 Actualmente soy inganiera en Sistemas Computacionales y me gusta realizar Front end, me apasiona diseñar. 
 - 🌱 Actualmente estoy aprendiendo un curso de depelover en el botcamp de Tecnolochicas, un curos de base de datos de Oracle, Fotografia e Marketing
 - 💞️ Estoy buscando laborar con empresas que se encargue de diseño web y base de datos.
 - 😄 Pronouns: Maris and Alafo
